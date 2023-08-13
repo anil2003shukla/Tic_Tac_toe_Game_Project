@@ -2,15 +2,6 @@
 
 Welcome to the Tic Tac Toe Game! This is a classic two-player game implemented using HTML, CSS, and JavaScript.
 
-## Table of Contents
-- [Game Description](#game-description)
-- [How to Play](#how-to-play)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Demo](#demo)
-- [Setup](#setup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Game Description
 
@@ -39,12 +30,4 @@ Tic Tac Toe is a game where two players take turns to mark a 3x3 grid with their
 - HTML
 - CSS
 - JavaScript
-
-## Demo
-
-You can try out the Tic Tac Toe Game by visiting the following link: [Live Demo](https://your-demo-url.com)
-
-## Setup
-
-1. Clone this repository to your local machine:
 
